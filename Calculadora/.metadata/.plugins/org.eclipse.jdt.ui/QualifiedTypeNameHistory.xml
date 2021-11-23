@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="calculadora.classes.Divisao"/>
+<fullyQualifiedTypeName name="calculadora.fabrica.FabricaCalculoMatematicos"/>
+<fullyQualifiedTypeName name="calculadora.interfaces.CalculadorMatematico"/>
+<fullyQualifiedTypeName name="calculadora.classes.Potenciacao"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,19 @@
+package calculadora.classes;
+
+import calculadora.interfaces.CalculadorMatematico;
+
+public class CalculoMatematico implements CalculadorMatematico {
+
+	@Override
+	public boolean validar() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public int calcular() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
